@@ -1,0 +1,10 @@
+Admin Account :
+
+Username : andika
+Password : andika123
+
+Username : arya
+Password : arya123
+
+Username : fauzi
+Password : fauzi123
